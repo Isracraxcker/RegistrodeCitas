@@ -138,10 +138,10 @@
 									</li>
 									<li>
 										<div class="dropdown-divider"></div>
-										<a class="dropdown-item" href="#">My Profile</a>
+										<a class="dropdown-item" href="#">Mi Perfil</a>
 										
 										<div class="dropdown-divider"></div>
-										<a class="dropdown-item" href="../../cerrarSesion.php">Logout</a>
+										<a class="dropdown-item" href="../../cerrarSesion.php">Cerar Sesion</a>
 									</li>
 								</div>
 							</ul>
