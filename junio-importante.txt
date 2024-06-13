@@ -6,16 +6,14 @@ Incluye:
 ✅Registro de Médicos
 ✅Registro de áreas médicas
 ✅Consulta de citas
+
 LA BASE DE DATOS SE LLAMA proyecto_final.sql
 ----ADMINISTRADOR-----
-USUARIO grace1804 
-CONTRASEÑA 11111
+USUARIO IsraCode 
+CONTRASEÑA 12345678
 ---------------------
 
 ------PACIENTES-----
-USUARIO manu 
-CONTRASEÑA 11111
-
-USUARIO leonar1
-CONTRASEÑA 11111
+USUARIO :paciente
+CONTRASEÑA :1111
 ---------------------
