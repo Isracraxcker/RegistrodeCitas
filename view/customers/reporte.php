@@ -69,7 +69,7 @@ $pdf->SetFont('Arial','B',12, 'UTF-8');
 $w = array(10, 25, 70, 70,25,35,25,25);
 //Declaramos el encabezado de la tabla
 $pdf->Cell(10,12,'#',1);
-$pdf->Cell(25,12,'DNI',1);
+$pdf->Cell(25,12,'CEDULA',1);
 $pdf->Cell(70,12,'NOMBRES',1);
 $pdf->Cell(70,12,'APELLIDOS',1);
 $pdf->Cell(25,12,'SEGURO',1);

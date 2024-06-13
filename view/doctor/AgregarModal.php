@@ -16,8 +16,8 @@
 					<div class="row">
 						<div class="col-sm-12">
 							<div class="form-group form-group-default">
-								<label>DNI</label>
-								<input name="dnidoc" required="" type="text" class="form-control" maxlength="8" placeholder="Ingrese dni" onKeypress="if (event.keyCode < 45 || event.keyCode > 57) event.returnValue = false;">
+								<label>Cedula</label>
+								<input name="dnidoc" required="" type="text" class="form-control" maxlength="10" placeholder="Ingrese su cedula" onKeypress="if (event.keyCode < 45 || event.keyCode > 57) event.returnValue = false;">
 							</div>
 						</div>
 						<div class="col-md-6 pr-0">
@@ -59,7 +59,7 @@
 						<div class="col-md-6">
 							<div class="form-group form-group-default">
 								<label>Teléfono</label>
-								<input name="telefo" required="" type="text" class="form-control" maxlength="9" placeholder="Ingrese teléfono" onKeypress="if (event.keyCode < 45 || event.keyCode > 57) event.returnValue = false;">
+								<input name="telefo" required="" type="text" class="form-control" maxlength="10" placeholder="Ingrese teléfono" onKeypress="if (event.keyCode < 45 || event.keyCode > 57) event.returnValue = false;">
 							</div>
 						</div>
 						
