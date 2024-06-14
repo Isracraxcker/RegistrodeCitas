@@ -52,5 +52,15 @@ Antes de comenzar, asegúrese de tener los siguientes requisitos previos instala
 - Médicos: Pueden ver y gestionar sus citas y pacientes.
 - Pacientes: Pueden ver y gestionar sus citas médicas.
 
+## Previews
+
+**- Movil**
+
+![iPhone-13-PRO-MAX-localhost (1)](https://github.com/Isracraxcker/RegistrodeCitas/assets/133439166/c771334a-29e0-4c42-8537-824610599811)
+
+**- Web**
+![Macbook-Air-localhost (1)](https://github.com/Isracraxcker/RegistrodeCitas/assets/133439166/a9aab5d3-25d2-4507-ac52-39dd7f6c7109)
+
+
 ## Contacto
-Para preguntas o soporte, puede contactarnos en [andyisraeljaramillo@example.com].
+Para preguntas o soporte, puede contactarnos en [andyisraeljaramillo@gmail.com].
