@@ -26,10 +26,15 @@ Antes de comenzar, asegúrese de tener los siguientes requisitos previos instala
 2. Configurar el Proyecto:
 
 - Descargue los archivos del proyecto y colóquelos en la carpeta htdocs dentro del directorio de instalación de XAMPP
- ```text
- C:\xampp\htdocs en Windows
- ‘‘‘
-(por ejemplo, C:\xampp\htdocs en Windows o /opt/lampp/htdocs en Linux).
+```text  
+C:\xampp\htdocs en Windows
+  ```
+
+```text  
+/opt/lampp/htdocs en Linux
+
+  ```
+ 
   
 3. Configurar la Base de Datos:
 
