@@ -20,7 +20,7 @@ Antes de comenzar, asegúrese de tener los siguientes requisitos previos instala
 **Instrucciones de Instalación**
 1. Descargar e instalar XAMPP:
 
-- Descargue e instale XAMPP desde aquí.
+- Descargue e instale XAMPP desde [aquí.](https://www.apachefriends.org/download.html)
 - Siga las instrucciones de instalación y asegúrese de que Apache y MySQL estén activados desde el panel de control de XAMPP.
 
 2. Configurar el Proyecto:
