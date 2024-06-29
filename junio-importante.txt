@@ -14,7 +14,7 @@ CONTRASEÑA 12345678
 ---------------------
 
 ------PACIENTES-----
-USUARIO :paciente
+USUARIO :isra
 CONTRASEÑA :1111
 ---------------------
 
