@@ -1,0 +1,3 @@
+Options All -Indexes
+ErrorDocument 403 /citas_medicas/403.html
+ErrorDocument 404 /citas_medicas/404.html
