@@ -24,7 +24,7 @@
 																<div class="form-group form-group-default">
 																	<label>DNI</label>
 															
-															<input type="text" class="form-control" maxlength="8" name="dnidoc" value="<?php echo $va['dnidoc']; ?>">
+															<input type="text" class="form-control" maxlength="10" name="dnidoc" value="<?php echo $va['dnidoc']; ?>">
 																</div>
 															</div>
 															

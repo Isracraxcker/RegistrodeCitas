@@ -31,7 +31,7 @@ class PDF extends FPDF
 function Header()
 {
 // Logo
-$this->Image('../../assets/img/icon.png',10,-1,30);
+$this->Image('../../assets/img/logo.png',50,10,30);
 $this->SetFont('Arial','B',13);
 // Move to the right
 $this->Cell(80);
@@ -70,8 +70,7 @@ $w = array(10, 25, 70, 70,25,35,25,25);
 //Declaramos el encabezado de la tabla
 $pdf->Cell(10,12,'#',1);
 $pdf->Cell(25,12,'CEDULA',1);
-$pdf->Cell(70,12,'NOMBRES',1);
-$pdf->Cell(70,12,'APELLIDOS',1);
+$pdf->Cell(70,12,'PACIENTE',1);
 $pdf->Cell(25,12,'SEGURO',1);
 $pdf->Cell(35,12,'TELEFONO',1);
 $pdf->Cell(25,12,'SEXO',1);
@@ -84,8 +83,7 @@ foreach($result as $row)
 {
 $pdf->Cell($w[0],6,$row['codpaci'],1);
 $pdf->Cell($w[1],6,utf8_decode($row['dnipa']),1);
-$pdf->Cell($w[2],6,utf8_decode($row['nombrep']),1);
-$pdf->Cell($w[3],6,utf8_decode($row['apellidop']),1);
+$pdf->Cell($w[2],6,utf8_decode($row['nombrep'])." ".$row['apellidop'],1);
 $pdf->Cell($w[4],6,utf8_decode($row['seguro']),1);
 $pdf->Cell($w[5],6,utf8_decode($row['tele']),1);
 $pdf->Cell($w[6],6,utf8_decode($row['sexo']),1);

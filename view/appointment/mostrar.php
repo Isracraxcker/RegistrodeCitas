@@ -21,7 +21,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<title>Citas</title>
 	<meta content='width=device-width, initial-scale=1.0, shrink-to-fit=no' name='viewport' />
-	<link rel="icon" href="../assets/img/icon.ico" type="image/x-icon"/>
+	<link rel="icon" href="../assets/img/logo.ico" type="image/x-icon"/>
 
 	<!-- Fonts and icons -->
 	<script src="../assets/js/plugin/webfont/webfont.min.js"></script>
@@ -415,11 +415,12 @@
 										<?php include('AgregarModal.php'); ?>
 									</div>
 									<div class="card-tools">
+										<br>
 											<a href="../view/appointment/reporte.php" class="btn btn-info btn-border btn-round btn-sm mr-2">
 												<span class="btn-label">
 													<i class="fa fa-pencil"></i>
 												</span>
-												Export
+												Exportar PDF
 											</a>
 											
 										</div>
